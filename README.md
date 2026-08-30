@@ -89,4 +89,4 @@ El proyecto puede desplegarse en Vercel o Netlify conectando el repositorio de G
 
 ## Autor
 
-Completar con nombre y apellido del estudiante.
+Raniero De Giusto
